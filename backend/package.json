@@ -1,7 +1,0 @@
-{
-  "name": "canino-storage-backend",
-  "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  }
-}
